@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/activity_home.xml" value="0.10208333333333333" />
         <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/fragment_blank.xml" value="0.1953125" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/fragment_camera_info.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/fragment_example.xml" value="0.1" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/recycler_photo_home.xml" value="0.2622601279317697" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/recycler_row_items.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGalleryApp/app/src/main/res/layout/row_photo_home.xml" value="0.1" />
       </map>
     </option>
   </component>
